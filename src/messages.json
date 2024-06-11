@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Message from FriendlyNeighbor",
+    "content": "What's your favorite movie of all time?",
+    "received": "5 minutes ago"
+  },
+  {
+    "title": "Message from BookLover",
+    "content": "Have you read any good books lately?",
+    "received": "3 hours ago"
+  },
+  {
+    "title": "Message from TravelBuddy",
+    "content": "If you could travel anywhere in the world, where would you go?",
+    "received": "2 days ago"
+  }
+]
